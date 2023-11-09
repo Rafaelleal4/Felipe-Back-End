@@ -1,0 +1,17 @@
+{
+  "name": "nova-pasta",
+  "version": "1.0.0",
+  "description": "Sei la o Felipe pediu",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "Javascript",
+    "BackEnd",
+    "SENAI"
+  ],
+  "author": "Leal",
+  "license": "ISC"
+}
